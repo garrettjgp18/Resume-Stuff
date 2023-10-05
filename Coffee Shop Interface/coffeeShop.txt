@@ -1,0 +1,10 @@
+Customer info: Penton, someEmail@gmail.com, 1234 Main Street || Order Info: Medium coffee, Oat milk, $5.0
+Customer info: Penton, someEmail@gmail.com, 1234 Main Street || Order Info: 1 shots of espresso, Cream, $1.0
+Customer info: Penton, someEmail@gmail.com, 1234 Main Street || Order Info: 2 mocha shots, Chocolate syrup, Steamed milk, $3.75
+Customer info: Lippert, lipert@yahoo.com, 5647 Some Road avenu || Order Info: 3 shots of espresso, Water, $2.5
+Customer info: Tolland, tland7@outlook.com, 4429 Somerandom Place Rd. || Order Info: Small coffee, No milk, $3.0
+Customer info: Tolland, tland7@outlook.com, 4429 Somerandom Place Rd. || Order Info: 3 shots of espresso, Milk, $2.5
+Customer info: Tolland, tland7@outlook.com, 4429 Somerandom Place Rd. || Order Info: 3 mocha shots, White chocolate syrup, No foam, $4.5
+Customer info: Unan, unan@uab.edu, 1234 UAB Ave || Order Info: 3 shots of espresso, Cream, $2.5
+Customer info: Unan, unan@uab.edu, 1234 UAB Ave || Order Info: 3 mocha shots, Chocolate syrup, Steamed milk, $4.5
+
