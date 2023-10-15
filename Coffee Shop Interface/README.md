@@ -1,4 +1,4 @@
-# Simple Coffee Shop Interface
+# Simple Coffee Shop Interface ☕
 
 ---
 
