@@ -13,9 +13,15 @@ lock = threading.Lock()
 def playAudio(placeholder):
     with lock:
         if placeholder == 'sad':
-            playsound('sad.mp3')
+            playsound('Expression Reader\sad.mp3')
         elif placeholder == 'surprise':
-            playsound('suprised.mp3')
+            playsound('Expression Reader\surprised.mp3')
+        elif placeholder == 'happy':
+            playsound('Expression Reader\happy.mp3')
+        elif placeholder == 'angry':
+            playsound('Expression Reader\angry.mp3')
+        elif placeholder == 'fear':
+            playsound('Expression Reader\scared.mp3')
     
 # Checks to see if camera opened correctly. If so, sets up frame and return value (rval)
 # If camera closes, sets values to False automatically
