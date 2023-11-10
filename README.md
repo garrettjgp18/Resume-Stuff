@@ -10,7 +10,7 @@ Right now, I am working with...
 - Python
 - Java
 - C
-- Assembly
+- Assembly (x86 AT&T)
 - HTML
 - CSS
 -JavaScript
